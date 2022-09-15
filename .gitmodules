@@ -1,9 +1,0 @@
-[submodule "sub3"]
-	path = sub3
-	url = git@github.com:smallhousebythelake/orchestra.git
-[submodule "sub1"]
-	path = sub1
-	url = git@github.com:smallhousebythelake/orchestra.git
-[submodule "sub2"]
-	path = sub2
-	url = git@github.com:smallhousebythelake/orchestra.git
